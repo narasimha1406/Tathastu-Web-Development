@@ -1,0 +1,122 @@
+
+body{
+    width: 90%;
+    background-color: white;
+}
+
+.logo h3{
+    position: relative;
+font-family: sans-serif;
+font-style: italic;
+font-size: 30px;
+font-weight: bolder;
+margin-left: 50px;
+margin-top: 20px;
+}
+
+.logo h4{
+    position: absolute;
+    font-family: sans-serif;
+    font-style:normal;
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 90px;
+    margin-top: -40px;
+    color: #ff8c00;
+}
+
+.links{
+    position: relative;
+    margin-left: 550px;
+    background-color: black;
+    margin-top: -70px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+li{
+    list-style-type: none;
+    float: left;
+    margin: 6px;
+    padding: 23px;
+
+}
+
+.links a{
+    text-decoration: none;
+    color: #ff8c00;
+    display:inline-block;
+}
+
+.links a:hover{
+    color: black;
+    background-color: #ff8c00;
+}
+
+.bikeimg img{
+    position: relative;
+    width: 50%;
+    margin-top: 40px;
+
+}
+
+.bikeimg a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    background-color: #ff8c00;
+    border:  1px black solid;
+    font-size: 25px;
+    margin-left: -400px;
+    margin-top: 420px;
+}
+
+.bikeimg1 img{
+    position:absolute;
+    width: 40%;
+    margin-left: 650px;
+    margin-top:-360px;
+}
+
+.bikeimg1 a{
+    position: absolute;
+    text-decoration: none;
+    color: black;
+    background-color: #ff8c00;
+    border:  1px black solid;
+    font-size: 25px;
+    margin-left: 850px;
+    margin-top: -20px;
+
+}
+
+.bikeimg a:hover{
+    color: #ff8c00;
+    background-color: black;
+    border: 1px #ff8c00 solid;
+
+}
+
+.bikeimg1 a:hover{
+    color: #ff8c00;
+    background-color: black;
+    border: 1px #ff8c00 solid;
+
+}
+
+
+.socialmedia{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 717px;
+    margin-top: -300px;
+
+}
+
+.socialmedia img{
+    width: 8%;
+    margin-left: 500px;
+    border-radius: 20px;
+
+}
